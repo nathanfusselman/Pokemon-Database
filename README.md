@@ -1,4 +1,4 @@
-# Pokemon_Database
+# Pokemon Database
  
 ## Overview
  This application was made to help improve my skills in swift and get back into this programming language. I have worked in the past with this laguages but have never worked with some of the new changes such as SwiftUI that was used in this project. The project takes advantage of some ecternal libraries and APIs such as AlamoFire, and SwiftyJSON.
